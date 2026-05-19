@@ -84,7 +84,6 @@ python launcher.py --reset
 
 ## 👤 Автор и Разработчик
 
-* **Developer / Cracker:** [Cr4ckX]([https://t.me/Cr4ckX0])
-* **Brand:** Cr4ckX Utilities & Automation Systems
+* **Developer / Cracker:** [Cr4ckX](https://t.me/Cr4ckX0)
 
 ---
